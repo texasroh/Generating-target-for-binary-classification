@@ -21,4 +21,5 @@ This is same way as predicting y in logistic regression
 Generate uniformly distributed random number 'r',
 and Put 1 when r <= p, or put 0
 
-Please look at the Jupyter notebook for more detail. Click here
+Please look at the Jupyter notebook for more detail. Click <a href='https://github.com/texasroh/Generating-target-for-binary-classification/blob/master/create%20simulation%20data%20for%20binary%20classification.ipynb'>here</a>
+
